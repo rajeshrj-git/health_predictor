@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+data/combined_data.csv
+models/health_model.h5
+
+# Environment
+.env
+.DS_Store
