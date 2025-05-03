@@ -1,0 +1,6 @@
+#!/bin/bash
+git clone https://github.com/rajeshrj-git/health_predictor.git
+cd health_predictor
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt

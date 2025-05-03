@@ -1,14 +1,12 @@
 # Python
 venv/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 
 # Data files
 data/combined_data.csv
-models/health_model.h5
+models/*
+!models/.gitkeep
 
-# Environment
-.env
+# OS
 .DS_Store
