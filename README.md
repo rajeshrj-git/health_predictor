@@ -1,6 +1,5 @@
 # Health Risk Prediction System
 
-## ❤️‍🩹 Help! It's Not Working
 
 ### Windows:
 - If you see "Python not found":  
